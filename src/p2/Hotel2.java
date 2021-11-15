@@ -1,3 +1,5 @@
+package p2;
+
 public class Hotel2 {
     private int capacity;
 
