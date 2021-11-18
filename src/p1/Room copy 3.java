@@ -1,4 +1,4 @@
 package p1;
 
-public class Room {
+public class Room23 {
 }
